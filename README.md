@@ -1,4 +1,4 @@
-# pa--2026
+# Pa- 2026
 Programação algoritmo
-# Primeira aula de programação
+# Primeira Aula de programação
 GIT HUB
