@@ -28,13 +28,13 @@ public class Helloworld {
   //processamento
   // Linha 30 e 31 Soma
   resultado  =Numero1 + Numero2;
-  System.out.println("O Resultado da Soma é;" +resultado );
+  System.out.println("O Resultado da Soma é"; + resultado);
 
   resultado = Numero1 / Numero2;
- System.out.println("o resultado da divisao e´; + resultado");
+ System.out.println("O Resultado da divisao é"; + resultado);
  
  resultado = Numero1 * Numero2;
- System.out.println("o resultado da multiplicação é + resultado");
+ System.out.println("O Resultado da multiplicação é"; + resultado);
 
  resultado = Numero1 - Numero2;
  System.out.println(resultado);
